@@ -1,4 +1,4 @@
-# 🎮 Java Mini Projects – Hangman & Music Player  
+# 🎮 Java Mini Projects 
 Built by Nafiz Shahriar  
 
 Two classic games/tools, reimagined in Java:  
